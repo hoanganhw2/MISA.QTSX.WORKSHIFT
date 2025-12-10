@@ -1,0 +1,14 @@
+/*  Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+}
+
+body {
+  font-size: 13px;
+  font-family: Inter, Helvetica, Arial, sans-serif !important;
+}
+a {
+  text-decoration: none;
+}

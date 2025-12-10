@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Shifts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "Insert",
+    "RelativePath": "api/v1/Shifts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shift",
+        "Type": "MISA.QTSX.CORE.entities.Shift",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Shifts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shiftId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "shift",
+        "Type": "MISA.QTSX.CORE.entities.Shift",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Shifts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shiftId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Shifts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "Deletes",
+    "RelativePath": "api/v1/Shifts/all",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shifts",
+        "Type": "System.Collections.Generic.List\u00601[[MISA.QTSX.CORE.entities.Shift, MISA.QTSX.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MISA.QTSX.WorkShift.API.Controllers.ShiftsController",
+    "Method": "UpdateShiftsInactive",
+    "RelativePath": "api/v1/Shifts/inactive",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shifts",
+        "Type": "System.Collections.Generic.List\u00601[[MISA.QTSX.CORE.entities.Shift, MISA.QTSX.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      },
+      {
+        "Name": "inactive",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

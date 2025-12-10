@@ -1,0 +1,11 @@
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\bin\Debug\net8.0\MISA.QTSX.CORE.deps.json
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\bin\Debug\net8.0\MISA.QTSX.CORE.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\bin\Debug\net8.0\MISA.QTSX.CORE.pdb
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\MISA.QTSX.CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\MISA.QTSX.CORE.AssemblyInfoInputs.cache
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\MISA.QTSX.CORE.AssemblyInfo.cs
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\MISA.QTSX.CORE.csproj.CoreCompileInputs.cache
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\MISA.QTSX.CORE.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\refint\MISA.QTSX.CORE.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\MISA.QTSX.CORE.pdb
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.CORE\obj\Debug\net8.0\ref\MISA.QTSX.CORE.dll

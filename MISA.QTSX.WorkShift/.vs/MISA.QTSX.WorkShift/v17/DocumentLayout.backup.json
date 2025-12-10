@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB2E742-FB4A-46C9-8A3B-3A9ACF1ED930}|MISA.QTSX.WorkShift.API\\MISA.QTSX.WorkShift.API.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.workshift.api\\controllers\\shiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB2E742-FB4A-46C9-8A3B-3A9ACF1ED930}|MISA.QTSX.WorkShift.API\\MISA.QTSX.WorkShift.API.csproj|solutionrelative:misa.qtsx.workshift.api\\controllers\\shiftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\interfaces\\services\\ishiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\interfaces\\services\\ishiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\services\\shiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\services\\shiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\interfaces\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\interfaces\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847571A-5FE0-4DB1-BA80-691D4176BFF6}|MISA.QTSX.infrastructure\\MISA.QTSX.infrastructure.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6847571A-5FE0-4DB1-BA80-691D4176BFF6}|MISA.QTSX.infrastructure\\MISA.QTSX.infrastructure.csproj|solutionrelative:misa.qtsx.infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\interfaces\\repository\\ishiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\interfaces\\repository\\ishiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\misaatribiute\\misarequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\misaatribiute\\misarequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847571A-5FE0-4DB1-BA80-691D4176BFF6}|MISA.QTSX.infrastructure\\MISA.QTSX.infrastructure.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.infrastructure\\repository\\shiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6847571A-5FE0-4DB1-BA80-691D4176BFF6}|MISA.QTSX.infrastructure\\MISA.QTSX.infrastructure.csproj|solutionrelative:misa.qtsx.infrastructure\\repository\\shiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\entities\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\entities\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB2E742-FB4A-46C9-8A3B-3A9ACF1ED930}|MISA.QTSX.WorkShift.API\\MISA.QTSX.WorkShift.API.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.workshift.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB2E742-FB4A-46C9-8A3B-3A9ACF1ED930}|MISA.QTSX.WorkShift.API\\MISA.QTSX.WorkShift.API.csproj|solutionrelative:misa.qtsx.workshift.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB2E742-FB4A-46C9-8A3B-3A9ACF1ED930}|MISA.QTSX.WorkShift.API\\MISA.QTSX.WorkShift.API.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.workshift.api\\response\\misareponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB2E742-FB4A-46C9-8A3B-3A9ACF1ED930}|MISA.QTSX.WorkShift.API\\MISA.QTSX.WorkShift.API.csproj|solutionrelative:misa.qtsx.workshift.api\\response\\misareponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\dtos\\shiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\dtos\\shiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.core\\misa.qtsx.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2DD879A-15A0-4162-A3CD-8D8B14D77A02}|MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj|solutionrelative:misa.qtsx.core\\misa.qtsx.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6847571A-5FE0-4DB1-BA80-691D4176BFF6}|MISA.QTSX.infrastructure\\MISA.QTSX.infrastructure.csproj|d:\\baitapcuoikhoafresher\\misa.qtsx.workshift\\misa.qtsx.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6847571A-5FE0-4DB1-BA80-691D4176BFF6}|MISA.QTSX.infrastructure\\MISA.QTSX.infrastructure.csproj|solutionrelative:misa.qtsx.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShiftsController.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.WorkShift.API\\Controllers\\ShiftsController.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.WorkShift.API\\Controllers\\ShiftsController.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.WorkShift.API\\Controllers\\ShiftsController.cs",
+              "RelativeToolTip": "MISA.QTSX.WorkShift.API\\Controllers\\ShiftsController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowL4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:15:12.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShiftRepository.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\interfaces\\repository\\IShiftRepository.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\interfaces\\repository\\IShiftRepository.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\interfaces\\repository\\IShiftRepository.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\interfaces\\repository\\IShiftRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:18:05.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.infrastructure\\repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.infrastructure\\repository\\BaseRepository.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.infrastructure\\repository\\BaseRepository.cs",
+              "RelativeToolTip": "MISA.QTSX.infrastructure\\repository\\BaseRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:35:45.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShiftService.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\services\\ShiftService.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\services\\ShiftService.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\services\\ShiftService.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\services\\ShiftService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:39:12.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShiftService.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\interfaces\\services\\IShiftService.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\interfaces\\services\\IShiftService.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\interfaces\\services\\IShiftService.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\interfaces\\services\\IShiftService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:14:24.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MisaRequired.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\misaatribiute\\MisaRequired.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\misaatribiute\\MisaRequired.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\misaatribiute\\MisaRequired.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\misaatribiute\\MisaRequired.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:24:28.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShiftDto.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\dtos\\ShiftDto.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\dtos\\ShiftDto.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\dtos\\ShiftDto.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\dtos\\ShiftDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:11:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.WorkShift.API\\Program.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.WorkShift.API\\Program.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.WorkShift.API\\Program.cs",
+              "RelativeToolTip": "MISA.QTSX.WorkShift.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:52:18.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\entities\\Shift.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\entities\\Shift.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\entities\\Shift.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\entities\\Shift.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:07:42.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShiftRepository.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.infrastructure\\repository\\ShiftRepository.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.infrastructure\\repository\\ShiftRepository.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.infrastructure\\repository\\ShiftRepository.cs",
+              "RelativeToolTip": "MISA.QTSX.infrastructure\\repository\\ShiftRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:42:32.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\interfaces\\repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\interfaces\\repository\\IBaseRepository.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\interfaces\\repository\\IBaseRepository.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\interfaces\\repository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T04:41:36.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MisaReponse.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.WorkShift.API\\Response\\MisaReponse.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.WorkShift.API\\Response\\MisaReponse.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.WorkShift.API\\Response\\MisaReponse.cs",
+              "RelativeToolTip": "MISA.QTSX.WorkShift.API\\Response\\MisaReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:14:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\Class1.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\Class1.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\Class1.cs",
+              "RelativeToolTip": "MISA.QTSX.CORE\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:02:36.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MISA.QTSX.CORE.csproj",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj",
+              "RelativeDocumentMoniker": "MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj",
+              "RelativeToolTip": "MISA.QTSX.CORE\\MISA.QTSX.CORE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T04:20:09.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "MISA.QTSX.infrastructure\\Class1.cs",
+              "ToolTip": "D:\\BaiTapCuoiKhoaFresher\\MISA.QTSX.WorkShift\\MISA.QTSX.infrastructure\\Class1.cs",
+              "RelativeToolTip": "MISA.QTSX.infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:04:07.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

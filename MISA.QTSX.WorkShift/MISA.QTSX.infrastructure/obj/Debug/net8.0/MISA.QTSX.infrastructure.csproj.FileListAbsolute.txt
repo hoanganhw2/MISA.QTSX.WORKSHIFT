@@ -1,0 +1,15 @@
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\bin\Debug\net8.0\MISA.QTSX.infrastructure.deps.json
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\bin\Debug\net8.0\MISA.QTSX.infrastructure.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\bin\Debug\net8.0\MISA.QTSX.infrastructure.pdb
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\bin\Debug\net8.0\MISA.QTSX.CORE.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\bin\Debug\net8.0\MISA.QTSX.CORE.pdb
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.csproj.AssemblyReference.cache
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.AssemblyInfoInputs.cache
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.AssemblyInfo.cs
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.csproj.CoreCompileInputs.cache
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTS.842DA90C.Up2Date
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\refint\MISA.QTSX.infrastructure.dll
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\MISA.QTSX.infrastructure.pdb
+D:\BaiTapCuoiKhoaFresher\MISA.QTSX.WorkShift\MISA.QTSX.infrastructure\obj\Debug\net8.0\ref\MISA.QTSX.infrastructure.dll

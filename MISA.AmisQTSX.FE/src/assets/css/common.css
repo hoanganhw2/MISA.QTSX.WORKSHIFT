@@ -1,0 +1,124 @@
+/* Flexbox */
+.d-flex {
+  display: flex;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+.flex-1 {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+}
+.flex-none {
+  flex: none;
+}
+.justify-content-start {
+  justify-content: flex-start;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.justify-content-end {
+  justify-content: flex-end;
+}
+.justify-content-between {
+  justify-content: space-between;
+}
+.align-items-start {
+  align-items: flex-start;
+}
+.align-items-center {
+  align-items: center;
+}
+.align-items-end {
+  align-items: flex-end;
+}
+/*  Spacing */
+.m-0 {
+  margin: 0;
+}
+.p-0 {
+  padding: 0;
+}
+
+.mt-1 {
+  margin-top: 4px;
+}
+.mb-1 {
+  margin-bottom: 4px;
+}
+.ml-1 {
+  margin-left: 4px;
+}
+.ml-8 {
+  margin-left: 8px;
+}
+.mr-1 {
+  margin-right: 4px;
+}
+
+.mt-2 {
+  margin-top: 8px;
+}
+.mb-2 {
+  margin-bottom: 8px;
+}
+.mr-12 {
+  margin-right: 12px;
+}
+.p-1 {
+  padding: 4px;
+}
+.p-2 {
+  padding: 8px;
+}
+.p-3 {
+  padding: 12px;
+}
+.p-4 {
+  padding: 16px;
+}
+/* Text */
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+
+/* Width/Height */
+.w-full {
+  width: 100%;
+}
+.h-full {
+  height: 100%;
+}
+
+/* Position */
+.pos-relative {
+  position: relative;
+}
+.pos-absolute {
+  position: absolute;
+}
+
+/* Display */
+.d-block {
+  display: block;
+}
+.d-none {
+  display: none;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
